@@ -3,6 +3,9 @@ Implementacion de Twenty Questions Game Fruita o 20Q Fruits  consiste en que el 
 piense en una fruta y el programa tratará de adivinarlo haciendo  a lo más 20 preguntas
 cuyas respuestas solo son sí y no.
 
+Rama sin GUI - M
+Rama con GUI - MainB
+
 ## Autores:
 * Reyes Ramos Luz María  318211073
 * Vargas Gutiérrez Julieta 318341945
